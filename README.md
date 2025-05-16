@@ -1,0 +1,1 @@
+EMV is a payment method based on a technical standard for smart payment cards and for payment terminals and automated teller machines which can accept them. EMV stands for "Europay, Mastercard, and Visa", the three companies that created the standard
